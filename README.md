@@ -1,22 +1,6 @@
 # dis-agree
 This project is being created to implement a disaggregated serving system.
 
-%%{init: {
-  "theme": "classic",
-  "themeVariables": {
-    "background": "#f7f9fc",
-    "primaryColor": "#ffffff",
-    "primaryTextColor": "#111827",
-    "primaryBorderColor": "#6b7280",
-    "lineColor": "#4b5563",
-    "secondaryColor": "#ffffff",
-    "tertiaryColor": "#ffffff",
-    "clusterBkg": "#ffffff",
-    "clusterBorder": "#9ca3af",
-    "fontFamily": "Arial, sans-serif"
-  }
-}}%%
-
 flowchart LR
 
     subgraph EDGE["Edge & API Plane"]
