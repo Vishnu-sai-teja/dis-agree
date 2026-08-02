@@ -1,6 +1,7 @@
 # dis-agree
 This project is being created to implement a disaggregated serving system.
 
+```mermaid
 flowchart LR
 
     subgraph EDGE["Edge & API Plane"]
@@ -152,3 +153,4 @@ flowchart LR
     style MEMORY fill:#eaf8fb,stroke:#27879b,stroke-width:2px
     style MODEL fill:#fff0f5,stroke:#ad4c70,stroke-width:2px
     style INFRA fill:#f1f3f5,stroke:#68717a,stroke-width:2px
+```
